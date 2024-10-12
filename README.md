@@ -1,7 +1,9 @@
 # Rock Paper Scissors - Git
 
-We are learning git & GitHub.
+We are learning **git** & __GitHub__.
+
 `hello from vim`
+
 > :wq
 
 ## Topics:
